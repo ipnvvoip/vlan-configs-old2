@@ -2,3 +2,5 @@ vlan 10
  name data
 vlan 20
  name voice
+vlan 30
+ name server
