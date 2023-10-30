@@ -2,4 +2,7 @@ vlan 10
  name data
 vlan 20
  name voice
-
+vlan 30 
+ name pcs
+vlan 40
+ name printers
